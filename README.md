@@ -1,3 +1,4 @@
 # mi-primer-repo
 Soy estudiante de ASIR y este es mi primero repo
-- Juan Carlos -
+- Juan Carlos
+- 19 / Mayo / 2026
